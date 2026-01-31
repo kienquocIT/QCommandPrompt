@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\KIENQUOC\\My Project\\CSharp\\QTerminal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FD6A95C-1A7A-4D4A-BFA7-6E5AB378922B}|QTerminal\\QTerminal.csproj|c:\\users\\admin\\kienquoc\\my project\\csharp\\qterminal\\qterminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD6A95C-1A7A-4D4A-BFA7-6E5AB378922B}|QTerminal\\QTerminal.csproj|solutionrelative:qterminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02FF60C8-E7BF-F38B-0D99-1F4402EB1CC6}|QTerminal\\QTerminal.csproj|c:\\users\\admin\\kienquoc\\my project\\csharp\\qterminal\\qterminal\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FF60C8-E7BF-F38B-0D99-1F4402EB1CC6}|QTerminal\\QTerminal.csproj|solutionrelative:qterminal\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FF60C8-E7BF-F38B-0D99-1F4402EB1CC6}|QTerminal\\QTerminal.csproj|c:\\users\\admin\\kienquoc\\my project\\csharp\\qterminal\\qterminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FF60C8-E7BF-F38B-0D99-1F4402EB1CC6}|QTerminal\\QTerminal.csproj|solutionrelative:qterminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\KIENQUOC\\My Project\\CSharp\\QTerminal\\QTerminal\\Command.cs",
+              "RelativeDocumentMoniker": "QTerminal\\Command.cs",
+              "ToolTip": "C:\\Users\\Admin\\KIENQUOC\\My Project\\CSharp\\QTerminal\\QTerminal\\Command.cs",
+              "RelativeToolTip": "QTerminal\\Command.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:10:04.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\KIENQUOC\\My Project\\CSharp\\QTerminal\\QTerminal\\Program.cs",
               "RelativeDocumentMoniker": "QTerminal\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\KIENQUOC\\My Project\\CSharp\\QTerminal\\QTerminal\\Program.cs",
               "RelativeToolTip": "QTerminal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T14:47:43.715Z",
               "EditorCaption": ""

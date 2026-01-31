@@ -1,0 +1,15 @@
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\bin\Debug\net8.0\QTerminal.exe
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\bin\Debug\net8.0\QTerminal.deps.json
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\bin\Debug\net8.0\QTerminal.runtimeconfig.json
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\bin\Debug\net8.0\QTerminal.dll
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\bin\Debug\net8.0\QTerminal.pdb
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.AssemblyInfoInputs.cache
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.AssemblyInfo.cs
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.sourcelink.json
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.dll
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\refint\QTerminal.dll
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.pdb
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\QTerminal.genruntimeconfig.cache
+C:\Users\Admin\KIENQUOC\My Project\CSharp\QTerminal\QTerminal\obj\Debug\net8.0\ref\QTerminal.dll

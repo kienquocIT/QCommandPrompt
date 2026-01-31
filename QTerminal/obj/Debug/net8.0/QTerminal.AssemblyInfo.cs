@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QTerminal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fe5a66a8215c082fa96215ac1ba17317c0c750")]
 [assembly: System.Reflection.AssemblyProductAttribute("QTerminal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QTerminal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
